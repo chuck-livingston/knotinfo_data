@@ -1,4 +1,4 @@
-# knotinfo_data_complete.xls.zip
+The link below will download the KnotInfo database.  
 
 chuck-livingston.github.io/knotinfo_data/knotinfo_data_complete.xls.zip
 
